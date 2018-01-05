@@ -2,7 +2,7 @@
 title: Research Projects
 layout: about
 ---
-<br>     
+<br>            
 ### Combining Evidence for Informative Hypotheses From Multiple Studies – A Simulation Study Investigating the Behavior of Bayes Factors
 M.Sc. thesis investigating the behavior of Bayes factors if combined from a variety of studies through simulation studies in R.
 
