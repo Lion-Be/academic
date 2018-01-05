@@ -8,6 +8,6 @@ github_username: Lion-Be
 
 nav_ext_links:
   - name: About
-    url: https://github.com/Lion-Be/Lion-Be.github.io/edit/master/about.md
+    url: /about.md
 
 remote_theme: academic
