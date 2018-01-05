@@ -7,7 +7,7 @@ twitter_username: LionBehrens
 github_username: Lion-Be
 
 nav_ext_links:
-  - name: About
+  - name: About2
     url: /about.md
 
 remote_theme: academic
