@@ -9,6 +9,6 @@ curriculum:
   
 nav_ext_links:
   - name: CV
-    url: https://github.com/Lion-Be/Lion-Be.github.io/raw/master/cv.pdf
+    url: https://lion-be.github.io/cv.pdf
 
 remote_theme: academic
