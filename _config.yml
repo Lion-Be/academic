@@ -1,3 +1,7 @@
+---
+layout: /_layouts/about.html
+---
+
 title: "<b>hello</b>world"
 description: This is my webpage
 email: l.behrens@uu.nl
