@@ -1,6 +1,6 @@
----
-layout: /_layouts/about.html
----
+
+layout: "/_layouts/about.html"
+
 
 title: "<b>hello</b>world"
 description: This is my webpage
