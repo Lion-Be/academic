@@ -1,5 +1,5 @@
 ---
-title: Index page
+title: About
 layout: about
 ---
 
