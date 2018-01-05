@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: /_layouts/about.html
 ---
 
 
