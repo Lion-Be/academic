@@ -3,7 +3,7 @@ title: Publications
 layout: about
 ---
  <br>
-*Working Papers*       
+*Peer-reviewed articles*       
 **Behrens, Lion** and Rohlfing, Ingo (2018) [No Evidence for Systematic Differences Between Types of
 Young Party Members - A Technical Replication of Bruter/Harrison 2009](https://osf.io/8svhu/) (accepted for publication in *Research & Politics*)
 
