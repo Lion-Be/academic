@@ -4,7 +4,7 @@ layout: about
 ---
  <br>
 *Peer-reviewed articles*          
-**Behrens, Lion** and Rohlfing, Ingo (2018) [Not so different in present attitudes and behavior, but expected future membership - A technical replication of a study of party youth in six European democracies](https://osf.io/8svhu/) (accepted for publication in *Research & Politics*)
+**Behrens, Lion** and Rohlfing, Ingo (2018) Not so different in present attitudes and behavior, but expected future membership - A technical replication of a study of party youth in six European democracies *Research & Politics*, Online First. [PDF](http://journals.sagepub.com/doi/10.1177/2053168018764876) [Reproduction Material] (https://osf.io/8svhu/)
 
   
 *Software*         
